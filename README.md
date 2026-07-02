@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Chaima%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%F0%9F%8E%80&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Chaima%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Lover%20%F0%9F%A4%96%F0%9F%92%95&descAlignY=55&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=E75480&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+%26+Mobile+Developer+%F0%9F%93%B1;DevOps+Enthusiast+%E2%9A%99%EF%B8%8F;I+turn+coffee+%E2%98%95+into+code+%F0%9F%92%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=E75480&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+%26+Mobile+Developer+%F0%9F%93%B1;AI+%26+Machine+Learning+Lover+%F0%9F%A4%96%E2%9C%A8;I+turn+coffee+%E2%98%95+into+code+%F0%9F%92%95" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Coding girl" width="380" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
@@ -16,9 +16,10 @@
 ### 🎀 A little about me
 
 - 🚀 I'm a **Software Engineer** who loves building clean, elegant, full-stack & mobile applications
-- 💻 Currently crafting things with **FullStack Web Apps, DevOps & Mobile Development**
-- 🌱 Always learning something new — cloud, CI/CD, and clean architecture are my current obsessions
-- 💬 Ask me about **FullStack Web Applications, DevOps, Mobile Applications**
+- 🤖 Passionate about **AI & Machine Learning** — always exploring new models and ideas
+- 💻 Currently crafting things with **FullStack Web Apps, AI & Mobile Development**
+- 🌱 Always learning something new — deep learning, NLP, and clean architecture are my current obsessions
+- 💬 Ask me about **FullStack Web Applications, AI/ML, Mobile Applications**
 - 📫 Reach me at **chaima.eljed@esprit.tn** or **chaimaeljed1@gmail.com**
 - ⚡ Fun fact: **I am funny 😅** (and I debug with vibes ✨)
 
